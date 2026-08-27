@@ -6,7 +6,7 @@ and Mac. The hand-drawn cards from the 1990 original are still there, pixel for 
 
 ## Where it came from
 
-The program was born on a camping holiday in LanGuillermie, a village near Vichy in France,
+The program was born on a camping holiday in La Guillermie, a village near Vichy in France,
 where we played this game every evening after dinner. The hard part was the statistics:
 working out the odds that the opponent holds a particular card, with no books at hand.
 After buying a calculator that could do factorials the formula was found, and it is still
